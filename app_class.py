@@ -69,7 +69,7 @@ class App:
 
 ##### Loading Images
     def load(self):
-       self.main_menu_background = pygame.image.load(r'C:\Users\ANANYA MAURYA\OneDrive\Desktop\pv\PathfindingVisualizer\main_background1.png')
+       self.main_menu_background = pygame.image.load(r"main_background1.png")
        #self.grid_background = pygame.image.load(r'C:\Users\ANANYA MAURYA\OneDrive\Desktop\pv\PathfindingVisualizer\grid_logo.png')
         
 
